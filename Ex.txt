@@ -1,3 +1,4 @@
 Hello, World!
 Bye, World!
+from the start!
 t'ill the end!
